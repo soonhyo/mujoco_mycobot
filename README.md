@@ -9,5 +9,5 @@ Adjustments to the parameters are required for the real2sim transition.
 python3 -m mujoco.viewer -mjcf mycobot_with_gripper.xml
 ```
 
-![alt text](https://github.com/soonhyo/mujoco_mycobot/blob/main/image.jpg?raw=true)
+![mycobot_with_gripper](https://github.com/soonhyo/mujoco_mycobot/blob/main/image.png)
 
